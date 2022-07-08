@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Basener
+    given-names: Bill
+    orcid: https://orcid.org/0000-0002-8593-2362
+  - given-names: Don Brown
+    name-particle: Don
+    family-names: Brown
+    email: deb@virginia.edu
+    affiliation: University of Virginia
+    orcid: 'https://orcid.org/0000-0002-9140-2632'
+title: "CPPSPECTRA"
+version: 1.0
+doi: 10.5281/zenodo.6811429
+date-released: 2022-07-08
